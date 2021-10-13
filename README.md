@@ -1,5 +1,4 @@
 # SQL
-
 ***
 - 1_SQL 
    - SELECT, WHERE, AND, COUNT, AVG, LIKE, BETWEEN, IN, MAX, MIN,
