@@ -1,5 +1,5 @@
 # SQL
-***
+
 - [1_SQL](https://github.com/Svetlana-br-prog/SQL/blob/main/%231_SQL.md) 
    - Выполнение несложных запросов к базе данных.
 - [2_SQL](https://github.com/Svetlana-br-prog/SQL/blob/main/%232_SQL.md)
