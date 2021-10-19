@@ -1,6 +1,6 @@
 # SQL
 ***
-- 1_SQL 
+- [1_SQL](https://github.com/Svetlana-br-prog/SQL/blob/main/%231_SQL.md) 
    - SELECT, WHERE, AND, COUNT, AVG, LIKE, BETWEEN, IN, MAX, MIN,
 ORDER BY(DESC)
 - [2_SQL](https://github.com/Svetlana-br-prog/SQL/blob/main/%232_SQL.md)
