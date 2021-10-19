@@ -6,7 +6,7 @@ DB: qa_db_22_x
 User: user_22_x
 Pass: *********
 ```
-![Схема БД]()
+![Схема БД](https://github.com/Svetlana-br-prog/SQL/blob/main/BD.jpg)
 ***
 -  Создайте базу из представленной картинки.
       - У каждой таблицы должно быть поле id
