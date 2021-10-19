@@ -6,8 +6,9 @@ DB: qa_db_22_x
 User: user_22_x
 Pass: *********
 ```
-![Схема БД](https://github.com/Svetlana-br-prog/SQL/blob/main/BD.jpg)
 ***
+![Схема БД](https://github.com/Svetlana-br-prog/SQL/blob/main/BD.jpg)
+
 -  Создайте базу из представленной картинки.
       - У каждой таблицы должно быть поле id
       - id автоинкрементальный и является первичным ключом
